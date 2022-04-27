@@ -34,7 +34,7 @@ namespace E_Loan.Tests.TestCases
         private UserRoleViewModel _userRoleViewModel;
         private ChangePasswordViewModel _changePasswordViewModel;
         private EditRoleViewModel _editRoleViewModel;
-        private static string type = "Exceptional";
+        private static string type = "Exception";
         public ExceptionalTest(ITestOutputHelper output)
         {
             /// <summary>
